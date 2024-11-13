@@ -9,6 +9,8 @@
 
 ## Configuration
 
+**Step 0:** Create a keypair following this guide [ec2-key-pairs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html). Needed for SSH connection later.
+
 **Step 1:** Ensure Terraform is installed and create a working directory.
 
 **Step 2:** Copy the code below into a file named `main.tf` and set the required variables or additional optional variables!
